@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Madhav. S</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY5ZDRvcHM3MjM3MjVzcDJjcHpkMXR2dW80cWNwY2Q3MmI4YWVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavmoudhgal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavmoudhgal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhavmoudhgal" alt="madhavmoudhgal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/madhav moudhgal" target="blank"><img src="https://img.shields.io/twitter/follow/madhav moudhgal?logo=twitter&style=for-the-badge" alt="madhav moudhgal" /></a> </p>
 
 - 🌱 I’m currently learning **Neural Network,LLM**
 
@@ -16,7 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/madhav moudhgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhav moudhgal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madhav-sathyanarayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-sathyanarayana" height="30" width="40" /></a>
+<a href="https://fb.com/madhav moudhgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madhav moudhgal" height="30" width="40" /></a>
+<a href="https://instagram.com/madhav moudhgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhav moudhgal" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/madhav .s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="madhav .s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
