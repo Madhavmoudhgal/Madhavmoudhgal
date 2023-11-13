@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav. S</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY5ZDRvcHM3MjM3MjVzcDJjcHpkMXR2dW80cWNwY2Q3MmI4YWVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY5ZDRvcHM3MjM3MjVzcDJjcHpkMXR2dW80cWNwY2Q3MmI4YWVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavmoudhgal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavmoudhgal" /> </p>
 
