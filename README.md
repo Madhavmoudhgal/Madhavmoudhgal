@@ -1,8 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 <h1 align="center">Hi 👋, I'm Madhav. S</h1>
 <h3 align="center">A passionate coder from India</h3>
-<br>
-<img align="right" alt="Coding" width="400" height="350" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavmoudhgal&label=Profile%20views&color=0e75b6&style=flat" alt="madhavmoudhgal" /> </p>
 
